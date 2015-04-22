@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CodeArt.MvcMefProvider</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Sherif Elmetainy</authors>
+    <owners>Sherif Elmetainy</owners>
+    <licenseUrl>https://github.com/sherif-elmetainy/MvcMefProvider/blob/master/LICENCE</licenseUrl>
+    <projectUrl>https://github.com/sherif-elmetainy/MvcMefProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>MEF2 MVC Dependency Injection</tags>
+  </metadata>
+</package>
